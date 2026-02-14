@@ -1,2 +1,0 @@
--- This file is intentionally empty.
--- Table creation is handled in fix-table.sql 
